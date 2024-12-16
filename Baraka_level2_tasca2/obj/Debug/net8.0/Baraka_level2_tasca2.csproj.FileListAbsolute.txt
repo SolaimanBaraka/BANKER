@@ -1,0 +1,14 @@
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\bin\Debug\net8.0\Baraka_level2_tasca2.exe
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\bin\Debug\net8.0\Baraka_level2_tasca2.deps.json
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\bin\Debug\net8.0\Baraka_level2_tasca2.runtimeconfig.json
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\bin\Debug\net8.0\Baraka_level2_tasca2.dll
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\bin\Debug\net8.0\Baraka_level2_tasca2.pdb
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.AssemblyInfoInputs.cache
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.AssemblyInfo.cs
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.csproj.CoreCompileInputs.cache
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.dll
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\refint\Baraka_level2_tasca2.dll
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.pdb
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\Baraka_level2_tasca2.genruntimeconfig.cache
+C:\Users\Solaiman Baraka\Desktop\Baraka_level2_tasca2\Baraka_level2_tasca2\obj\Debug\net8.0\ref\Baraka_level2_tasca2.dll
